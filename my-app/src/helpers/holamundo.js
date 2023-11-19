@@ -1,0 +1,1 @@
+alert("Hola esta es una pagina con Angular");
